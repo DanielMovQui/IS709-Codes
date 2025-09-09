@@ -1,0 +1,1686 @@
+Angles between all the crystal pairs and combinations
+---------------------------------------------------------
+Angle: 14.485°, Combinations: 52
+  ('g1_A', red) - ('g1_A', green)
+  ('g1_A', red) - ('g1_A', white)
+  ('g1_A', green) - ('g1_A', blue)
+  ('g1_A', white) - ('g1_A', blue)
+  ('g1_B', red) - ('g1_B', green)
+  ('g1_B', red) - ('g1_B', white)
+  ('g1_B', green) - ('g1_B', blue)
+  ('g1_B', white) - ('g1_B', blue)
+  ('g2_A', red) - ('g2_A', green)
+  ('g2_A', red) - ('g2_A', white)
+  ('g2_A', green) - ('g2_A', blue)
+  ('g2_A', white) - ('g2_A', blue)
+  ('g2_B', red) - ('g2_B', green)
+  ('g2_B', red) - ('g2_B', white)
+  ('g2_B', green) - ('g2_B', blue)
+  ('g2_B', white) - ('g2_B', blue)
+  ('g2_C', red) - ('g2_C', green)
+  ('g2_C', red) - ('g2_C', white)
+  ('g2_C', green) - ('g2_C', blue)
+  ('g2_C', white) - ('g2_C', blue)
+  ('g3_A', red) - ('g3_A', green)
+  ('g3_A', red) - ('g3_A', white)
+  ('g3_A', green) - ('g3_A', blue)
+  ('g3_A', white) - ('g3_A', blue)
+  ('g3_B', red) - ('g3_B', green)
+  ('g3_B', red) - ('g3_B', white)
+  ('g3_B', green) - ('g3_B', blue)
+  ('g3_B', white) - ('g3_B', blue)
+  ('g3_C', red) - ('g3_C', green)
+  ('g3_C', red) - ('g3_C', white)
+  ('g3_C', green) - ('g3_C', blue)
+  ('g3_C', white) - ('g3_C', blue)
+  ('g4_A', red) - ('g4_A', green)
+  ('g4_A', red) - ('g4_A', white)
+  ('g4_A', green) - ('g4_A', blue)
+  ('g4_A', white) - ('g4_A', blue)
+  ('g4_B', red) - ('g4_B', green)
+  ('g4_B', red) - ('g4_B', white)
+  ('g4_B', green) - ('g4_B', blue)
+  ('g4_B', white) - ('g4_B', blue)
+  ('g4_C', red) - ('g4_C', green)
+  ('g4_C', red) - ('g4_C', white)
+  ('g4_C', green) - ('g4_C', blue)
+  ('g4_C', white) - ('g4_C', blue)
+  ('g5_A', red) - ('g5_A', green)
+  ('g5_A', red) - ('g5_A', white)
+  ('g5_A', green) - ('g5_A', blue)
+  ('g5_A', white) - ('g5_A', blue)
+  ('g5_B', red) - ('g5_B', green)
+  ('g5_B', red) - ('g5_B', white)
+  ('g5_B', green) - ('g5_B', blue)
+  ('g5_B', white) - ('g5_B', blue)
+
+Angle: 18.771°, Combinations: 4
+  ('g1_A', green) - ('g2_A', red)
+  ('g1_B', blue) - ('g2_C', white)
+  ('g4_A', green) - ('g5_A', red)
+  ('g4_C', blue) - ('g5_B', white)
+
+Angle: 20.541°, Combinations: 26
+  ('g1_A', red) - ('g1_A', blue)
+  ('g1_A', green) - ('g1_A', white)
+  ('g1_B', red) - ('g1_B', blue)
+  ('g1_B', green) - ('g1_B', white)
+  ('g2_A', red) - ('g2_A', blue)
+  ('g2_A', green) - ('g2_A', white)
+  ('g2_B', red) - ('g2_B', blue)
+  ('g2_B', green) - ('g2_B', white)
+  ('g2_C', red) - ('g2_C', blue)
+  ('g2_C', green) - ('g2_C', white)
+  ('g3_A', red) - ('g3_A', blue)
+  ('g3_A', green) - ('g3_A', white)
+  ('g3_B', red) - ('g3_B', blue)
+  ('g3_B', green) - ('g3_B', white)
+  ('g3_C', red) - ('g3_C', blue)
+  ('g3_C', green) - ('g3_C', white)
+  ('g4_A', red) - ('g4_A', blue)
+  ('g4_A', green) - ('g4_A', white)
+  ('g4_B', red) - ('g4_B', blue)
+  ('g4_B', green) - ('g4_B', white)
+  ('g4_C', red) - ('g4_C', blue)
+  ('g4_C', green) - ('g4_C', white)
+  ('g5_A', red) - ('g5_A', blue)
+  ('g5_A', green) - ('g5_A', white)
+  ('g5_B', red) - ('g5_B', blue)
+  ('g5_B', green) - ('g5_B', white)
+
+Angle: 27.299°, Combinations: 8
+  ('g1_A', green) - ('g2_A', white)
+  ('g1_A', blue) - ('g2_A', red)
+  ('g1_B', green) - ('g2_C', white)
+  ('g1_B', blue) - ('g2_C', red)
+  ('g4_A', green) - ('g5_A', white)
+  ('g4_A', blue) - ('g5_A', red)
+  ('g4_C', green) - ('g5_B', white)
+  ('g4_C', blue) - ('g5_B', red)
+
+Angle: 28.247°, Combinations: 4
+  ('g1_A', blue) - ('g2_A', white)
+  ('g1_B', green) - ('g2_C', red)
+  ('g4_A', blue) - ('g5_A', white)
+  ('g4_C', green) - ('g5_B', red)
+
+Angle: 29.497°, Combinations: 2
+  ('g1_A', red) - ('g5_A', green)
+  ('g1_B', white) - ('g5_B', blue)
+
+Angle: 30.149°, Combinations: 12
+  ('g2_A', white) - ('g2_B', red)
+  ('g2_A', blue) - ('g2_B', green)
+  ('g2_B', white) - ('g2_C', red)
+  ('g2_B', blue) - ('g2_C', green)
+  ('g3_A', white) - ('g3_B', red)
+  ('g3_A', blue) - ('g3_B', green)
+  ('g3_B', white) - ('g3_C', red)
+  ('g3_B', blue) - ('g3_C', green)
+  ('g4_A', white) - ('g4_B', red)
+  ('g4_A', blue) - ('g4_B', green)
+  ('g4_B', white) - ('g4_C', red)
+  ('g4_B', blue) - ('g4_C', green)
+
+Angle: 32.674°, Combinations: 8
+  ('g1_A', red) - ('g2_A', red)
+  ('g1_A', green) - ('g2_A', green)
+  ('g1_B', white) - ('g2_C', white)
+  ('g1_B', blue) - ('g2_C', blue)
+  ('g4_A', red) - ('g5_A', red)
+  ('g4_A', green) - ('g5_A', green)
+  ('g4_C', white) - ('g5_B', white)
+  ('g4_C', blue) - ('g5_B', blue)
+
+Angle: 33.599°, Combinations: 12
+  ('g2_A', white) - ('g2_B', green)
+  ('g2_A', blue) - ('g2_B', red)
+  ('g2_B', white) - ('g2_C', green)
+  ('g2_B', blue) - ('g2_C', red)
+  ('g3_A', white) - ('g3_B', green)
+  ('g3_A', blue) - ('g3_B', red)
+  ('g3_B', white) - ('g3_C', green)
+  ('g3_B', blue) - ('g3_C', red)
+  ('g4_A', white) - ('g4_B', green)
+  ('g4_A', blue) - ('g4_B', red)
+  ('g4_B', white) - ('g4_C', green)
+  ('g4_B', blue) - ('g4_C', red)
+
+Angle: 38.257°, Combinations: 4
+  ('g1_A', red) - ('g5_A', blue)
+  ('g1_A', white) - ('g5_A', green)
+  ('g1_B', red) - ('g5_B', blue)
+  ('g1_B', white) - ('g5_B', green)
+
+Angle: 38.412°, Combinations: 8
+  ('g1_A', green) - ('g2_A', blue)
+  ('g1_A', white) - ('g2_A', red)
+  ('g1_B', red) - ('g2_C', white)
+  ('g1_B', blue) - ('g2_C', green)
+  ('g4_A', green) - ('g5_A', blue)
+  ('g4_A', white) - ('g5_A', red)
+  ('g4_C', red) - ('g5_B', white)
+  ('g4_C', blue) - ('g5_B', green)
+
+Angle: 39.73°, Combinations: 4
+  ('g2_A', green) - ('g3_A', red)
+  ('g2_C', blue) - ('g3_C', white)
+  ('g3_A', green) - ('g4_A', red)
+  ('g3_C', blue) - ('g4_C', white)
+
+Angle: 41.652°, Combinations: 8
+  ('g1_A', red) - ('g2_A', white)
+  ('g1_A', blue) - ('g2_A', green)
+  ('g1_B', green) - ('g2_C', blue)
+  ('g1_B', white) - ('g2_C', red)
+  ('g4_A', red) - ('g5_A', white)
+  ('g4_A', blue) - ('g5_A', green)
+  ('g4_C', green) - ('g5_B', blue)
+  ('g4_C', white) - ('g5_B', red)
+
+Angle: 42.123°, Combinations: 2
+  ('g1_A', white) - ('g5_A', blue)
+  ('g1_B', red) - ('g5_B', green)
+
+Angle: 42.313°, Combinations: 8
+  ('g1_A', white) - ('g2_A', white)
+  ('g1_A', blue) - ('g2_A', blue)
+  ('g1_B', red) - ('g2_C', red)
+  ('g1_B', green) - ('g2_C', green)
+  ('g4_A', white) - ('g5_A', white)
+  ('g4_A', blue) - ('g5_A', blue)
+  ('g4_C', red) - ('g5_B', red)
+  ('g4_C', green) - ('g5_B', green)
+
+Angle: 42.715°, Combinations: 4
+  ('g1_A', red) - ('g5_A', red)
+  ('g1_A', green) - ('g5_A', green)
+  ('g1_B', white) - ('g5_B', white)
+  ('g1_B', blue) - ('g5_B', blue)
+
+Angle: 44.622°, Combinations: 24
+  ('g2_A', red) - ('g2_B', red)
+  ('g2_A', green) - ('g2_B', green)
+  ('g2_A', white) - ('g2_B', white)
+  ('g2_A', blue) - ('g2_B', blue)
+  ('g2_B', red) - ('g2_C', red)
+  ('g2_B', green) - ('g2_C', green)
+  ('g2_B', white) - ('g2_C', white)
+  ('g2_B', blue) - ('g2_C', blue)
+  ('g3_A', red) - ('g3_B', red)
+  ('g3_A', green) - ('g3_B', green)
+  ('g3_A', white) - ('g3_B', white)
+  ('g3_A', blue) - ('g3_B', blue)
+  ('g3_B', red) - ('g3_C', red)
+  ('g3_B', green) - ('g3_C', green)
+  ('g3_B', white) - ('g3_C', white)
+  ('g3_B', blue) - ('g3_C', blue)
+  ('g4_A', red) - ('g4_B', red)
+  ('g4_A', green) - ('g4_B', green)
+  ('g4_A', white) - ('g4_B', white)
+  ('g4_A', blue) - ('g4_B', blue)
+  ('g4_B', red) - ('g4_C', red)
+  ('g4_B', green) - ('g4_C', green)
+  ('g4_B', white) - ('g4_C', white)
+  ('g4_B', blue) - ('g4_C', blue)
+
+Angle: 45.45°, Combinations: 4
+  ('g1_A', blue) - ('g2_B', red)
+  ('g1_B', green) - ('g2_B', white)
+  ('g4_B', green) - ('g5_A', white)
+  ('g4_B', blue) - ('g5_B', red)
+
+Angle: 45.627°, Combinations: 4
+  ('g1_A', red) - ('g2_A', green)
+  ('g1_B', white) - ('g2_C', blue)
+  ('g4_A', red) - ('g5_A', green)
+  ('g4_C', white) - ('g5_B', blue)
+
+Angle: 47.158°, Combinations: 24
+  ('g2_A', red) - ('g2_B', green)
+  ('g2_A', green) - ('g2_B', red)
+  ('g2_A', white) - ('g2_B', blue)
+  ('g2_A', blue) - ('g2_B', white)
+  ('g2_B', red) - ('g2_C', green)
+  ('g2_B', green) - ('g2_C', red)
+  ('g2_B', white) - ('g2_C', blue)
+  ('g2_B', blue) - ('g2_C', white)
+  ('g3_A', red) - ('g3_B', green)
+  ('g3_A', green) - ('g3_B', red)
+  ('g3_A', white) - ('g3_B', blue)
+  ('g3_A', blue) - ('g3_B', white)
+  ('g3_B', red) - ('g3_C', green)
+  ('g3_B', green) - ('g3_C', red)
+  ('g3_B', white) - ('g3_C', blue)
+  ('g3_B', blue) - ('g3_C', white)
+  ('g4_A', red) - ('g4_B', green)
+  ('g4_A', green) - ('g4_B', red)
+  ('g4_A', white) - ('g4_B', blue)
+  ('g4_A', blue) - ('g4_B', white)
+  ('g4_B', red) - ('g4_C', green)
+  ('g4_B', green) - ('g4_C', red)
+  ('g4_B', white) - ('g4_C', blue)
+  ('g4_B', blue) - ('g4_C', white)
+
+Angle: 49.338°, Combinations: 8
+  ('g2_A', green) - ('g3_A', white)
+  ('g2_A', blue) - ('g3_A', red)
+  ('g2_C', green) - ('g3_C', white)
+  ('g2_C', blue) - ('g3_C', red)
+  ('g3_A', green) - ('g4_A', white)
+  ('g3_A', blue) - ('g4_A', red)
+  ('g3_C', green) - ('g4_C', white)
+  ('g3_C', blue) - ('g4_C', red)
+
+Angle: 49.489°, Combinations: 4
+  ('g1_A', red) - ('g5_A', white)
+  ('g1_A', blue) - ('g5_A', green)
+  ('g1_B', green) - ('g5_B', blue)
+  ('g1_B', white) - ('g5_B', red)
+
+Angle: 51.968°, Combinations: 8
+  ('g2_A', red) - ('g3_A', red)
+  ('g2_A', green) - ('g3_A', green)
+  ('g2_C', white) - ('g3_C', white)
+  ('g2_C', blue) - ('g3_C', blue)
+  ('g3_A', red) - ('g4_A', red)
+  ('g3_A', green) - ('g4_A', green)
+  ('g3_C', white) - ('g4_C', white)
+  ('g3_C', blue) - ('g4_C', blue)
+
+Angle: 52.639°, Combinations: 4
+  ('g1_A', green) - ('g5_A', blue)
+  ('g1_A', white) - ('g5_A', red)
+  ('g1_B', red) - ('g5_B', white)
+  ('g1_B', blue) - ('g5_B', green)
+
+Angle: 52.788°, Combinations: 8
+  ('g1_A', red) - ('g2_A', blue)
+  ('g1_A', white) - ('g2_A', green)
+  ('g1_B', red) - ('g2_C', blue)
+  ('g1_B', white) - ('g2_C', green)
+  ('g4_A', red) - ('g5_A', blue)
+  ('g4_A', white) - ('g5_A', green)
+  ('g4_C', red) - ('g5_B', blue)
+  ('g4_C', white) - ('g5_B', green)
+
+Angle: 52.936°, Combinations: 4
+  ('g1_A', green) - ('g2_B', red)
+  ('g1_B', blue) - ('g2_B', white)
+  ('g4_B', green) - ('g5_A', red)
+  ('g4_B', blue) - ('g5_B', white)
+
+Angle: 54.589°, Combinations: 2
+  ('g1_A', green) - ('g5_A', red)
+  ('g1_B', blue) - ('g5_B', white)
+
+Angle: 55.534°, Combinations: 4
+  ('g2_A', blue) - ('g3_A', white)
+  ('g2_C', green) - ('g3_C', red)
+  ('g3_A', blue) - ('g4_A', white)
+  ('g3_C', green) - ('g4_C', red)
+
+Angle: 55.716°, Combinations: 4
+  ('g1_A', white) - ('g5_A', white)
+  ('g1_A', blue) - ('g5_A', blue)
+  ('g1_B', red) - ('g5_B', red)
+  ('g1_B', green) - ('g5_B', green)
+
+Angle: 55.897°, Combinations: 4
+  ('g1_A', white) - ('g2_A', blue)
+  ('g1_B', red) - ('g2_C', green)
+  ('g4_A', white) - ('g5_A', blue)
+  ('g4_C', red) - ('g5_B', green)
+
+Angle: 55.937°, Combinations: 4
+  ('g1_A', blue) - ('g2_B', green)
+  ('g1_B', green) - ('g2_B', blue)
+  ('g4_B', red) - ('g5_A', white)
+  ('g4_B', white) - ('g5_B', red)
+
+Angle: 56.731°, Combinations: 4
+  ('g1_A', blue) - ('g2_B', white)
+  ('g1_B', green) - ('g2_B', red)
+  ('g4_B', green) - ('g5_B', red)
+  ('g4_B', blue) - ('g5_A', white)
+
+Angle: 57.799°, Combinations: 4
+  ('g1_A', red) - ('g4_A', green)
+  ('g1_B', white) - ('g4_C', blue)
+  ('g2_A', red) - ('g5_A', green)
+  ('g2_C', white) - ('g5_B', blue)
+
+Angle: 58.702°, Combinations: 4
+  ('g1_A', white) - ('g2_B', red)
+  ('g1_B', red) - ('g2_B', white)
+  ('g4_B', green) - ('g5_A', blue)
+  ('g4_B', blue) - ('g5_B', green)
+
+Angle: 59.08°, Combinations: 12
+  ('g2_A', red) - ('g2_B', white)
+  ('g2_A', green) - ('g2_B', blue)
+  ('g2_B', red) - ('g2_C', white)
+  ('g2_B', green) - ('g2_C', blue)
+  ('g3_A', red) - ('g3_B', white)
+  ('g3_A', green) - ('g3_B', blue)
+  ('g3_B', red) - ('g3_C', white)
+  ('g3_B', green) - ('g3_C', blue)
+  ('g4_A', red) - ('g4_B', white)
+  ('g4_A', green) - ('g4_B', blue)
+  ('g4_B', red) - ('g4_C', white)
+  ('g4_B', green) - ('g4_C', blue)
+
+Angle: 60.09°, Combinations: 8
+  ('g2_A', green) - ('g3_A', blue)
+  ('g2_A', white) - ('g3_A', red)
+  ('g2_C', red) - ('g3_C', white)
+  ('g2_C', blue) - ('g3_C', green)
+  ('g3_A', green) - ('g4_A', blue)
+  ('g3_A', white) - ('g4_A', red)
+  ('g3_C', red) - ('g4_C', white)
+  ('g3_C', blue) - ('g4_C', green)
+
+Angle: 60.156°, Combinations: 4
+  ('g1_A', green) - ('g2_B', green)
+  ('g1_B', blue) - ('g2_B', blue)
+  ('g4_B', red) - ('g5_A', red)
+  ('g4_B', white) - ('g5_B', white)
+
+Angle: 61.18°, Combinations: 12
+  ('g2_A', red) - ('g2_B', blue)
+  ('g2_A', green) - ('g2_B', white)
+  ('g2_B', red) - ('g2_C', blue)
+  ('g2_B', green) - ('g2_C', white)
+  ('g3_A', red) - ('g3_B', blue)
+  ('g3_A', green) - ('g3_B', white)
+  ('g3_B', red) - ('g3_C', blue)
+  ('g3_B', green) - ('g3_C', white)
+  ('g4_A', red) - ('g4_B', blue)
+  ('g4_A', green) - ('g4_B', white)
+  ('g4_B', red) - ('g4_C', blue)
+  ('g4_B', green) - ('g4_C', white)
+
+Angle: 62.41°, Combinations: 4
+  ('g2_A', red) - ('g3_A', green)
+  ('g2_C', white) - ('g3_C', blue)
+  ('g3_A', red) - ('g4_A', green)
+  ('g3_C', white) - ('g4_C', blue)
+
+Angle: 63.02°, Combinations: 8
+  ('g2_A', red) - ('g3_A', white)
+  ('g2_A', blue) - ('g3_A', green)
+  ('g2_C', green) - ('g3_C', blue)
+  ('g2_C', white) - ('g3_C', red)
+  ('g3_A', red) - ('g4_A', white)
+  ('g3_A', blue) - ('g4_A', green)
+  ('g3_C', green) - ('g4_C', blue)
+  ('g3_C', white) - ('g4_C', red)
+
+Angle: 63.158°, Combinations: 4
+  ('g1_A', green) - ('g5_A', white)
+  ('g1_A', blue) - ('g5_A', red)
+  ('g1_B', green) - ('g5_B', white)
+  ('g1_B', blue) - ('g5_B', red)
+
+Angle: 65.093°, Combinations: 4
+  ('g1_A', green) - ('g3_A', red)
+  ('g1_B', blue) - ('g3_C', white)
+  ('g3_A', green) - ('g5_A', red)
+  ('g3_C', blue) - ('g5_B', white)
+
+Angle: 65.123°, Combinations: 4
+  ('g1_A', red) - ('g2_B', red)
+  ('g1_B', white) - ('g2_B', white)
+  ('g4_B', green) - ('g5_A', green)
+  ('g4_B', blue) - ('g5_B', blue)
+
+Angle: 65.975°, Combinations: 4
+  ('g1_A', blue) - ('g2_B', blue)
+  ('g1_B', green) - ('g2_B', green)
+  ('g4_B', red) - ('g5_B', red)
+  ('g4_B', white) - ('g5_A', white)
+
+Angle: 66.122°, Combinations: 4
+  ('g1_A', green) - ('g2_B', white)
+  ('g1_B', blue) - ('g2_B', red)
+  ('g4_B', green) - ('g5_B', white)
+  ('g4_B', blue) - ('g5_A', red)
+
+Angle: 67.017°, Combinations: 8
+  ('g1_A', red) - ('g4_A', red)
+  ('g1_A', green) - ('g4_A', green)
+  ('g1_B', white) - ('g4_C', white)
+  ('g1_B', blue) - ('g4_C', blue)
+  ('g2_A', red) - ('g5_A', red)
+  ('g2_A', green) - ('g5_A', green)
+  ('g2_C', white) - ('g5_B', white)
+  ('g2_C', blue) - ('g5_B', blue)
+
+Angle: 68.408°, Combinations: 8
+  ('g2_A', white) - ('g3_A', white)
+  ('g2_A', blue) - ('g3_A', blue)
+  ('g2_C', red) - ('g3_C', red)
+  ('g2_C', green) - ('g3_C', green)
+  ('g3_A', white) - ('g4_A', white)
+  ('g3_A', blue) - ('g4_A', blue)
+  ('g3_C', red) - ('g4_C', red)
+  ('g3_C', green) - ('g4_C', green)
+
+Angle: 68.498°, Combinations: 4
+  ('g1_A', white) - ('g2_B', white)
+  ('g1_B', red) - ('g2_B', red)
+  ('g4_B', green) - ('g5_B', green)
+  ('g4_B', blue) - ('g5_A', blue)
+
+Angle: 68.577°, Combinations: 2
+  ('g1_A', blue) - ('g5_A', white)
+  ('g1_B', green) - ('g5_B', red)
+
+Angle: 69.662°, Combinations: 8
+  ('g1_A', red) - ('g4_A', blue)
+  ('g1_A', white) - ('g4_A', green)
+  ('g1_B', red) - ('g4_C', blue)
+  ('g1_B', white) - ('g4_C', green)
+  ('g2_A', red) - ('g5_A', blue)
+  ('g2_A', white) - ('g5_A', green)
+  ('g2_C', red) - ('g5_B', blue)
+  ('g2_C', white) - ('g5_B', green)
+
+Angle: 70.081°, Combinations: 4
+  ('g1_A', white) - ('g2_B', green)
+  ('g1_B', red) - ('g2_B', blue)
+  ('g4_B', red) - ('g5_A', blue)
+  ('g4_B', white) - ('g5_B', green)
+
+Angle: 72.21°, Combinations: 8
+  ('g1_A', red) - ('g3_A', red)
+  ('g1_A', green) - ('g3_A', green)
+  ('g1_B', white) - ('g3_C', white)
+  ('g1_B', blue) - ('g3_C', blue)
+  ('g3_A', red) - ('g5_A', red)
+  ('g3_A', green) - ('g5_A', green)
+  ('g3_C', white) - ('g5_B', white)
+  ('g3_C', blue) - ('g5_B', blue)
+
+Angle: 72.499°, Combinations: 8
+  ('g2_A', red) - ('g3_A', blue)
+  ('g2_A', white) - ('g3_A', green)
+  ('g2_C', red) - ('g3_C', blue)
+  ('g2_C', white) - ('g3_C', green)
+  ('g3_A', red) - ('g4_A', blue)
+  ('g3_A', white) - ('g4_A', green)
+  ('g3_C', red) - ('g4_C', blue)
+  ('g3_C', white) - ('g4_C', green)
+
+Angle: 72.559°, Combinations: 4
+  ('g1_A', green) - ('g2_B', blue)
+  ('g1_B', blue) - ('g2_B', green)
+  ('g4_B', red) - ('g5_B', white)
+  ('g4_B', white) - ('g5_A', red)
+
+Angle: 72.573°, Combinations: 16
+  ('g2_A', green) - ('g3_B', red)
+  ('g2_A', blue) - ('g3_B', red)
+  ('g2_B', green) - ('g3_A', red)
+  ('g2_B', green) - ('g3_A', white)
+  ('g2_B', blue) - ('g3_C', red)
+  ('g2_B', blue) - ('g3_C', white)
+  ('g2_C', green) - ('g3_B', white)
+  ('g2_C', blue) - ('g3_B', white)
+  ('g3_A', green) - ('g4_B', red)
+  ('g3_A', blue) - ('g4_B', red)
+  ('g3_B', green) - ('g4_A', red)
+  ('g3_B', green) - ('g4_A', white)
+  ('g3_B', blue) - ('g4_C', red)
+  ('g3_B', blue) - ('g4_C', white)
+  ('g3_C', green) - ('g4_B', white)
+  ('g3_C', blue) - ('g4_B', white)
+
+Angle: 73.417°, Combinations: 4
+  ('g1_A', green) - ('g4_A', red)
+  ('g1_B', blue) - ('g4_C', white)
+  ('g2_A', green) - ('g5_A', red)
+  ('g2_C', blue) - ('g5_B', white)
+
+Angle: 73.845°, Combinations: 4
+  ('g1_A', red) - ('g2_B', green)
+  ('g1_B', white) - ('g2_B', blue)
+  ('g4_B', red) - ('g5_A', green)
+  ('g4_B', white) - ('g5_B', blue)
+
+Angle: 74.693°, Combinations: 18
+  ('g1_A', white) - ('g1_B', red)
+  ('g1_A', blue) - ('g1_B', green)
+  ('g2_A', red) - ('g4_A', green)
+  ('g2_A', green) - ('g4_A', red)
+  ('g2_A', white) - ('g2_C', red)
+  ('g2_A', blue) - ('g2_C', green)
+  ('g2_B', green) - ('g3_B', red)
+  ('g2_B', blue) - ('g3_B', white)
+  ('g2_C', white) - ('g4_C', blue)
+  ('g2_C', blue) - ('g4_C', white)
+  ('g3_A', white) - ('g3_C', red)
+  ('g3_A', blue) - ('g3_C', green)
+  ('g3_B', green) - ('g4_B', red)
+  ('g3_B', blue) - ('g4_B', white)
+  ('g4_A', white) - ('g4_C', red)
+  ('g4_A', blue) - ('g4_C', green)
+  ('g5_A', white) - ('g5_B', red)
+  ('g5_A', blue) - ('g5_B', green)
+
+Angle: 76.034°, Combinations: 4
+  ('g1_A', red) - ('g3_A', green)
+  ('g1_B', white) - ('g3_C', blue)
+  ('g3_A', red) - ('g5_A', green)
+  ('g3_C', white) - ('g5_B', blue)
+
+Angle: 76.573°, Combinations: 18
+  ('g1_A', white) - ('g1_B', green)
+  ('g1_A', blue) - ('g1_B', red)
+  ('g2_A', red) - ('g4_A', red)
+  ('g2_A', green) - ('g4_A', green)
+  ('g2_A', white) - ('g2_C', green)
+  ('g2_A', blue) - ('g2_C', red)
+  ('g2_B', green) - ('g3_B', white)
+  ('g2_B', blue) - ('g3_B', red)
+  ('g2_C', white) - ('g4_C', white)
+  ('g2_C', blue) - ('g4_C', blue)
+  ('g3_A', white) - ('g3_C', green)
+  ('g3_A', blue) - ('g3_C', red)
+  ('g3_B', green) - ('g4_B', white)
+  ('g3_B', blue) - ('g4_B', red)
+  ('g4_A', white) - ('g4_C', green)
+  ('g4_A', blue) - ('g4_C', red)
+  ('g5_A', white) - ('g5_B', green)
+  ('g5_A', blue) - ('g5_B', red)
+
+Angle: 77.129°, Combinations: 4
+  ('g1_A', red) - ('g2_B', white)
+  ('g1_B', white) - ('g2_B', red)
+  ('g4_B', green) - ('g5_B', blue)
+  ('g4_B', blue) - ('g5_A', green)
+
+Angle: 78.058°, Combinations: 8
+  ('g1_A', green) - ('g3_A', white)
+  ('g1_A', blue) - ('g3_A', red)
+  ('g1_B', green) - ('g3_C', white)
+  ('g1_B', blue) - ('g3_C', red)
+  ('g3_A', green) - ('g5_A', white)
+  ('g3_A', blue) - ('g5_A', red)
+  ('g3_C', green) - ('g5_B', white)
+  ('g3_C', blue) - ('g5_B', red)
+
+Angle: 78.163°, Combinations: 8
+  ('g1_A', red) - ('g4_A', white)
+  ('g1_A', blue) - ('g4_A', green)
+  ('g1_B', green) - ('g4_C', blue)
+  ('g1_B', white) - ('g4_C', red)
+  ('g2_A', red) - ('g5_A', white)
+  ('g2_A', blue) - ('g5_A', green)
+  ('g2_C', green) - ('g5_B', blue)
+  ('g2_C', white) - ('g5_B', red)
+
+Angle: 79.179°, Combinations: 4
+  ('g1_A', white) - ('g2_B', blue)
+  ('g1_B', red) - ('g2_B', green)
+  ('g4_B', red) - ('g5_B', green)
+  ('g4_B', white) - ('g5_A', blue)
+
+Angle: 79.903°, Combinations: 4
+  ('g1_A', white) - ('g4_A', blue)
+  ('g1_B', red) - ('g4_C', green)
+  ('g2_A', white) - ('g5_A', blue)
+  ('g2_C', red) - ('g5_B', green)
+
+Angle: 80.207°, Combinations: 4
+  ('g2_A', white) - ('g3_A', blue)
+  ('g2_C', red) - ('g3_C', green)
+  ('g3_A', white) - ('g4_A', blue)
+  ('g3_C', red) - ('g4_C', green)
+
+Angle: 80.285°, Combinations: 8
+  ('g1_A', green) - ('g4_A', blue)
+  ('g1_A', white) - ('g4_A', red)
+  ('g1_B', red) - ('g4_C', white)
+  ('g1_B', blue) - ('g4_C', green)
+  ('g2_A', green) - ('g5_A', blue)
+  ('g2_A', white) - ('g5_A', red)
+  ('g2_C', red) - ('g5_B', white)
+  ('g2_C', blue) - ('g5_B', green)
+
+Angle: 81.574°, Combinations: 16
+  ('g2_A', green) - ('g3_B', green)
+  ('g2_A', blue) - ('g3_B', white)
+  ('g2_B', red) - ('g3_A', red)
+  ('g2_B', green) - ('g3_C', red)
+  ('g2_B', white) - ('g3_C', white)
+  ('g2_B', blue) - ('g3_A', white)
+  ('g2_C', green) - ('g3_B', red)
+  ('g2_C', blue) - ('g3_B', blue)
+  ('g3_A', green) - ('g4_B', green)
+  ('g3_A', blue) - ('g4_B', white)
+  ('g3_B', red) - ('g4_A', red)
+  ('g3_B', green) - ('g4_C', red)
+  ('g3_B', white) - ('g4_C', white)
+  ('g3_B', blue) - ('g4_A', white)
+  ('g3_C', green) - ('g4_B', red)
+  ('g3_C', blue) - ('g4_B', blue)
+
+Angle: 81.668°, Combinations: 4
+  ('g1_A', blue) - ('g2_C', red)
+  ('g1_B', green) - ('g2_A', white)
+  ('g4_A', blue) - ('g5_B', red)
+  ('g4_C', green) - ('g5_A', white)
+
+Angle: 84.17°, Combinations: 16
+  ('g2_A', green) - ('g3_B', white)
+  ('g2_A', blue) - ('g3_B', green)
+  ('g2_B', red) - ('g3_A', white)
+  ('g2_B', green) - ('g3_C', white)
+  ('g2_B', white) - ('g3_C', red)
+  ('g2_B', blue) - ('g3_A', red)
+  ('g2_C', green) - ('g3_B', blue)
+  ('g2_C', blue) - ('g3_B', red)
+  ('g3_A', green) - ('g4_B', white)
+  ('g3_A', blue) - ('g4_B', green)
+  ('g3_B', red) - ('g4_A', white)
+  ('g3_B', green) - ('g4_C', white)
+  ('g3_B', white) - ('g4_C', red)
+  ('g3_B', blue) - ('g4_A', red)
+  ('g3_C', green) - ('g4_B', blue)
+  ('g3_C', blue) - ('g4_B', red)
+
+Angle: 84.762°, Combinations: 8
+  ('g1_A', green) - ('g3_A', blue)
+  ('g1_A', white) - ('g3_A', red)
+  ('g1_B', red) - ('g3_C', white)
+  ('g1_B', blue) - ('g3_C', green)
+  ('g3_A', green) - ('g5_A', blue)
+  ('g3_A', white) - ('g5_A', red)
+  ('g3_C', red) - ('g5_B', white)
+  ('g3_C', blue) - ('g5_B', green)
+
+Angle: 85.393°, Combinations: 4
+  ('g1_A', red) - ('g2_B', blue)
+  ('g1_B', white) - ('g2_B', green)
+  ('g4_B', red) - ('g5_B', blue)
+  ('g4_B', white) - ('g5_A', green)
+
+Angle: 86.281°, Combinations: 8
+  ('g1_A', red) - ('g3_A', white)
+  ('g1_A', blue) - ('g3_A', green)
+  ('g1_B', green) - ('g3_C', blue)
+  ('g1_B', white) - ('g3_C', red)
+  ('g3_A', red) - ('g5_A', white)
+  ('g3_A', blue) - ('g5_A', green)
+  ('g3_C', green) - ('g5_B', blue)
+  ('g3_C', white) - ('g5_B', red)
+
+Angle: 86.348°, Combinations: 8
+  ('g1_A', green) - ('g4_A', white)
+  ('g1_A', blue) - ('g4_A', red)
+  ('g1_B', green) - ('g4_C', white)
+  ('g1_B', blue) - ('g4_C', red)
+  ('g2_A', green) - ('g5_A', white)
+  ('g2_A', blue) - ('g5_A', red)
+  ('g2_C', green) - ('g5_B', white)
+  ('g2_C', blue) - ('g5_B', red)
+
+Angle: 87.055°, Combinations: 16
+  ('g2_A', red) - ('g3_B', red)
+  ('g2_A', white) - ('g3_B', red)
+  ('g2_B', green) - ('g3_A', green)
+  ('g2_B', green) - ('g3_A', blue)
+  ('g2_B', blue) - ('g3_C', green)
+  ('g2_B', blue) - ('g3_C', blue)
+  ('g2_C', red) - ('g3_B', white)
+  ('g2_C', white) - ('g3_B', white)
+  ('g3_A', red) - ('g4_B', red)
+  ('g3_A', white) - ('g4_B', red)
+  ('g3_B', green) - ('g4_A', green)
+  ('g3_B', green) - ('g4_A', blue)
+  ('g3_B', blue) - ('g4_C', green)
+  ('g3_B', blue) - ('g4_C', blue)
+  ('g3_C', red) - ('g4_B', white)
+  ('g3_C', white) - ('g4_B', white)
+
+Angle: 89.089°, Combinations: 36
+  ('g1_A', red) - ('g1_B', red)
+  ('g1_A', green) - ('g1_B', green)
+  ('g1_A', white) - ('g1_B', white)
+  ('g1_A', blue) - ('g1_B', blue)
+  ('g2_A', red) - ('g2_C', red)
+  ('g2_A', red) - ('g4_A', blue)
+  ('g2_A', green) - ('g2_C', green)
+  ('g2_A', green) - ('g4_A', white)
+  ('g2_A', white) - ('g2_C', white)
+  ('g2_A', white) - ('g4_A', green)
+  ('g2_A', blue) - ('g2_C', blue)
+  ('g2_A', blue) - ('g4_A', red)
+  ('g2_B', red) - ('g3_B', red)
+  ('g2_B', green) - ('g3_B', green)
+  ('g2_B', white) - ('g3_B', white)
+  ('g2_B', blue) - ('g3_B', blue)
+  ('g2_C', red) - ('g4_C', blue)
+  ('g2_C', green) - ('g4_C', white)
+  ('g2_C', white) - ('g4_C', green)
+  ('g2_C', blue) - ('g4_C', red)
+  ('g3_A', red) - ('g3_C', red)
+  ('g3_A', green) - ('g3_C', green)
+  ('g3_A', white) - ('g3_C', white)
+  ('g3_A', blue) - ('g3_C', blue)
+  ('g3_B', red) - ('g4_B', red)
+  ('g3_B', green) - ('g4_B', green)
+  ('g3_B', white) - ('g4_B', white)
+  ('g3_B', blue) - ('g4_B', blue)
+  ('g4_A', red) - ('g4_C', red)
+  ('g4_A', green) - ('g4_C', green)
+  ('g4_A', white) - ('g4_C', white)
+  ('g4_A', blue) - ('g4_C', blue)
+  ('g5_A', red) - ('g5_B', red)
+  ('g5_A', green) - ('g5_B', green)
+  ('g5_A', white) - ('g5_B', white)
+  ('g5_A', blue) - ('g5_B', blue)
+
+Angle: 89.673°, Combinations: 2
+  ('g1_A', white) - ('g5_B', green)
+  ('g1_B', red) - ('g5_A', blue)
+
+Angle: 89.801°, Combinations: 8
+  ('g1_A', white) - ('g2_C', red)
+  ('g1_A', blue) - ('g2_C', green)
+  ('g1_B', red) - ('g2_A', white)
+  ('g1_B', green) - ('g2_A', blue)
+  ('g4_A', white) - ('g5_B', red)
+  ('g4_A', blue) - ('g5_B', green)
+  ('g4_C', red) - ('g5_A', white)
+  ('g4_C', green) - ('g5_A', blue)
+
+Angle: 89.961°, Combinations: 8
+  ('g1_A', red) - ('g3_A', blue)
+  ('g1_A', white) - ('g3_A', green)
+  ('g1_B', red) - ('g3_C', blue)
+  ('g1_B', white) - ('g3_C', green)
+  ('g3_A', red) - ('g5_A', blue)
+  ('g3_A', white) - ('g5_A', green)
+  ('g3_C', red) - ('g5_B', blue)
+  ('g3_C', white) - ('g5_B', green)
+
+Angle: 90.072°, Combinations: 4
+  ('g1_A', blue) - ('g3_A', white)
+  ('g1_B', green) - ('g3_C', red)
+  ('g3_A', blue) - ('g5_A', white)
+  ('g3_C', green) - ('g5_B', red)
+
+Angle: 90.199°, Combinations: 8
+  ('g1_A', white) - ('g4_A', white)
+  ('g1_A', blue) - ('g4_A', blue)
+  ('g1_B', red) - ('g4_C', red)
+  ('g1_B', green) - ('g4_C', green)
+  ('g2_A', white) - ('g5_A', white)
+  ('g2_A', blue) - ('g5_A', blue)
+  ('g2_C', red) - ('g5_B', red)
+  ('g2_C', green) - ('g5_B', green)
+
+Angle: 90.911°, Combinations: 36
+  ('g1_A', red) - ('g1_B', green)
+  ('g1_A', green) - ('g1_B', red)
+  ('g1_A', white) - ('g1_B', blue)
+  ('g1_A', blue) - ('g1_B', white)
+  ('g2_A', red) - ('g2_C', green)
+  ('g2_A', red) - ('g4_A', white)
+  ('g2_A', green) - ('g2_C', red)
+  ('g2_A', green) - ('g4_A', blue)
+  ('g2_A', white) - ('g2_C', blue)
+  ('g2_A', white) - ('g4_A', red)
+  ('g2_A', blue) - ('g2_C', white)
+  ('g2_A', blue) - ('g4_A', green)
+  ('g2_B', red) - ('g3_B', white)
+  ('g2_B', green) - ('g3_B', blue)
+  ('g2_B', white) - ('g3_B', red)
+  ('g2_B', blue) - ('g3_B', green)
+  ('g2_C', red) - ('g4_C', white)
+  ('g2_C', green) - ('g4_C', blue)
+  ('g2_C', white) - ('g4_C', red)
+  ('g2_C', blue) - ('g4_C', green)
+  ('g3_A', red) - ('g3_C', green)
+  ('g3_A', green) - ('g3_C', red)
+  ('g3_A', white) - ('g3_C', blue)
+  ('g3_A', blue) - ('g3_C', white)
+  ('g3_B', red) - ('g4_B', white)
+  ('g3_B', green) - ('g4_B', blue)
+  ('g3_B', white) - ('g4_B', red)
+  ('g3_B', blue) - ('g4_B', green)
+  ('g4_A', red) - ('g4_C', green)
+  ('g4_A', green) - ('g4_C', red)
+  ('g4_A', white) - ('g4_C', blue)
+  ('g4_A', blue) - ('g4_C', white)
+  ('g5_A', red) - ('g5_B', green)
+  ('g5_A', green) - ('g5_B', red)
+  ('g5_A', white) - ('g5_B', blue)
+  ('g5_A', blue) - ('g5_B', white)
+
+Angle: 92.945°, Combinations: 16
+  ('g2_A', green) - ('g3_B', blue)
+  ('g2_A', blue) - ('g3_B', blue)
+  ('g2_B', red) - ('g3_C', red)
+  ('g2_B', red) - ('g3_C', white)
+  ('g2_B', white) - ('g3_A', red)
+  ('g2_B', white) - ('g3_A', white)
+  ('g2_C', green) - ('g3_B', green)
+  ('g2_C', blue) - ('g3_B', green)
+  ('g3_A', green) - ('g4_B', blue)
+  ('g3_A', blue) - ('g4_B', blue)
+  ('g3_B', red) - ('g4_C', red)
+  ('g3_B', red) - ('g4_C', white)
+  ('g3_B', white) - ('g4_A', red)
+  ('g3_B', white) - ('g4_A', white)
+  ('g3_C', green) - ('g4_B', green)
+  ('g3_C', blue) - ('g4_B', green)
+
+Angle: 93.652°, Combinations: 8
+  ('g1_A', green) - ('g2_C', red)
+  ('g1_A', blue) - ('g2_C', white)
+  ('g1_B', green) - ('g2_A', red)
+  ('g1_B', blue) - ('g2_A', white)
+  ('g4_A', green) - ('g5_B', red)
+  ('g4_A', blue) - ('g5_B', white)
+  ('g4_C', green) - ('g5_A', red)
+  ('g4_C', blue) - ('g5_A', white)
+
+Angle: 94.607°, Combinations: 4
+  ('g1_A', red) - ('g4_B', green)
+  ('g1_B', white) - ('g4_B', blue)
+  ('g2_B', red) - ('g5_A', green)
+  ('g2_B', white) - ('g5_B', blue)
+
+Angle: 95.83°, Combinations: 16
+  ('g2_A', red) - ('g3_B', green)
+  ('g2_A', white) - ('g3_B', white)
+  ('g2_B', red) - ('g3_A', green)
+  ('g2_B', green) - ('g3_C', green)
+  ('g2_B', white) - ('g3_C', blue)
+  ('g2_B', blue) - ('g3_A', blue)
+  ('g2_C', red) - ('g3_B', red)
+  ('g2_C', white) - ('g3_B', blue)
+  ('g3_A', red) - ('g4_B', green)
+  ('g3_A', white) - ('g4_B', white)
+  ('g3_B', red) - ('g4_A', green)
+  ('g3_B', green) - ('g4_C', green)
+  ('g3_B', white) - ('g4_C', blue)
+  ('g3_B', blue) - ('g4_A', blue)
+  ('g3_C', red) - ('g4_B', red)
+  ('g3_C', white) - ('g4_B', blue)
+
+Angle: 98.239°, Combinations: 8
+  ('g1_A', white) - ('g3_A', white)
+  ('g1_A', blue) - ('g3_A', blue)
+  ('g1_B', red) - ('g3_C', red)
+  ('g1_B', green) - ('g3_C', green)
+  ('g3_A', white) - ('g5_A', white)
+  ('g3_A', blue) - ('g5_A', blue)
+  ('g3_C', red) - ('g5_B', red)
+  ('g3_C', green) - ('g5_B', green)
+
+Angle: 98.332°, Combinations: 4
+  ('g1_A', blue) - ('g4_A', white)
+  ('g1_B', green) - ('g4_C', red)
+  ('g2_A', blue) - ('g5_A', white)
+  ('g2_C', green) - ('g5_B', red)
+
+Angle: 98.426°, Combinations: 16
+  ('g2_A', red) - ('g3_B', white)
+  ('g2_A', white) - ('g3_B', green)
+  ('g2_B', red) - ('g3_A', blue)
+  ('g2_B', green) - ('g3_C', blue)
+  ('g2_B', white) - ('g3_C', green)
+  ('g2_B', blue) - ('g3_A', green)
+  ('g2_C', red) - ('g3_B', blue)
+  ('g2_C', white) - ('g3_B', red)
+  ('g3_A', red) - ('g4_B', white)
+  ('g3_A', white) - ('g4_B', green)
+  ('g3_B', red) - ('g4_A', blue)
+  ('g3_B', green) - ('g4_C', blue)
+  ('g3_B', white) - ('g4_C', green)
+  ('g3_B', blue) - ('g4_A', green)
+  ('g3_C', red) - ('g4_B', blue)
+  ('g3_C', white) - ('g4_B', red)
+
+Angle: 99.618°, Combinations: 4
+  ('g1_A', red) - ('g5_B', green)
+  ('g1_A', white) - ('g5_B', blue)
+  ('g1_B', red) - ('g5_A', green)
+  ('g1_B', white) - ('g5_A', blue)
+
+Angle: 99.715°, Combinations: 8
+  ('g1_A', green) - ('g2_C', green)
+  ('g1_A', white) - ('g2_C', white)
+  ('g1_B', red) - ('g2_A', red)
+  ('g1_B', blue) - ('g2_A', blue)
+  ('g4_A', green) - ('g5_B', green)
+  ('g4_A', white) - ('g5_B', white)
+  ('g4_C', red) - ('g5_A', red)
+  ('g4_C', blue) - ('g5_A', blue)
+
+Angle: 99.793°, Combinations: 4
+  ('g2_A', blue) - ('g3_C', red)
+  ('g2_C', green) - ('g3_A', white)
+  ('g3_A', blue) - ('g4_C', red)
+  ('g3_C', green) - ('g4_A', white)
+
+Angle: 99.945°, Combinations: 4
+  ('g1_A', white) - ('g5_B', red)
+  ('g1_A', blue) - ('g5_B', green)
+  ('g1_B', red) - ('g5_A', white)
+  ('g1_B', green) - ('g5_A', blue)
+
+Angle: 100.097°, Combinations: 4
+  ('g1_A', white) - ('g2_C', green)
+  ('g1_B', red) - ('g2_A', blue)
+  ('g4_A', white) - ('g5_B', green)
+  ('g4_C', red) - ('g5_A', blue)
+
+Angle: 100.821°, Combinations: 4
+  ('g1_A', white) - ('g4_B', green)
+  ('g1_B', red) - ('g4_B', blue)
+  ('g2_B', red) - ('g5_A', blue)
+  ('g2_B', white) - ('g5_B', green)
+
+Angle: 101.837°, Combinations: 8
+  ('g1_A', red) - ('g2_C', red)
+  ('g1_A', blue) - ('g2_C', blue)
+  ('g1_B', green) - ('g2_A', green)
+  ('g1_B', white) - ('g2_A', white)
+  ('g4_A', red) - ('g5_B', red)
+  ('g4_A', blue) - ('g5_B', blue)
+  ('g4_C', green) - ('g5_A', green)
+  ('g4_C', white) - ('g5_A', white)
+
+Angle: 102.871°, Combinations: 4
+  ('g1_A', red) - ('g4_B', red)
+  ('g1_B', white) - ('g4_B', white)
+  ('g2_B', green) - ('g5_A', green)
+  ('g2_B', blue) - ('g5_B', blue)
+
+Angle: 103.427°, Combinations: 18
+  ('g1_A', red) - ('g1_B', white)
+  ('g1_A', green) - ('g1_B', blue)
+  ('g2_A', red) - ('g2_C', white)
+  ('g2_A', green) - ('g2_C', blue)
+  ('g2_A', white) - ('g4_A', blue)
+  ('g2_A', blue) - ('g4_A', white)
+  ('g2_B', red) - ('g3_B', green)
+  ('g2_B', white) - ('g3_B', blue)
+  ('g2_C', red) - ('g4_C', green)
+  ('g2_C', green) - ('g4_C', red)
+  ('g3_A', red) - ('g3_C', white)
+  ('g3_A', green) - ('g3_C', blue)
+  ('g3_B', red) - ('g4_B', green)
+  ('g3_B', white) - ('g4_B', blue)
+  ('g4_A', red) - ('g4_C', white)
+  ('g4_A', green) - ('g4_C', blue)
+  ('g5_A', red) - ('g5_B', white)
+  ('g5_A', green) - ('g5_B', blue)
+
+Angle: 103.527°, Combinations: 4
+  ('g1_A', white) - ('g3_A', blue)
+  ('g1_B', red) - ('g3_C', green)
+  ('g3_A', white) - ('g5_A', blue)
+  ('g3_C', red) - ('g5_B', green)
+
+Angle: 104.668°, Combinations: 4
+  ('g1_A', green) - ('g3_B', red)
+  ('g1_B', blue) - ('g3_B', white)
+  ('g3_B', green) - ('g5_A', red)
+  ('g3_B', blue) - ('g5_B', white)
+
+Angle: 105.307°, Combinations: 18
+  ('g1_A', red) - ('g1_B', blue)
+  ('g1_A', green) - ('g1_B', white)
+  ('g2_A', red) - ('g2_C', blue)
+  ('g2_A', green) - ('g2_C', white)
+  ('g2_A', white) - ('g4_A', white)
+  ('g2_A', blue) - ('g4_A', blue)
+  ('g2_B', red) - ('g3_B', blue)
+  ('g2_B', white) - ('g3_B', green)
+  ('g2_C', red) - ('g4_C', red)
+  ('g2_C', green) - ('g4_C', green)
+  ('g3_A', red) - ('g3_C', blue)
+  ('g3_A', green) - ('g3_C', white)
+  ('g3_B', red) - ('g4_B', blue)
+  ('g3_B', white) - ('g4_B', green)
+  ('g4_A', red) - ('g4_C', blue)
+  ('g4_A', green) - ('g4_C', white)
+  ('g5_A', red) - ('g5_B', blue)
+  ('g5_A', green) - ('g5_B', white)
+
+Angle: 106.155°, Combinations: 4
+  ('g1_A', red) - ('g4_B', blue)
+  ('g1_B', white) - ('g4_B', green)
+  ('g2_B', red) - ('g5_B', blue)
+  ('g2_B', white) - ('g5_A', green)
+
+Angle: 106.583°, Combinations: 4
+  ('g1_A', green) - ('g2_C', white)
+  ('g1_B', blue) - ('g2_A', red)
+  ('g4_A', green) - ('g5_B', white)
+  ('g4_C', blue) - ('g5_A', red)
+
+Angle: 107.427°, Combinations: 16
+  ('g2_A', red) - ('g3_B', blue)
+  ('g2_A', white) - ('g3_B', blue)
+  ('g2_B', red) - ('g3_C', green)
+  ('g2_B', red) - ('g3_C', blue)
+  ('g2_B', white) - ('g3_A', green)
+  ('g2_B', white) - ('g3_A', blue)
+  ('g2_C', red) - ('g3_B', green)
+  ('g2_C', white) - ('g3_B', green)
+  ('g3_A', red) - ('g4_B', blue)
+  ('g3_A', white) - ('g4_B', blue)
+  ('g3_B', red) - ('g4_C', green)
+  ('g3_B', red) - ('g4_C', blue)
+  ('g3_B', white) - ('g4_A', green)
+  ('g3_B', white) - ('g4_A', blue)
+  ('g3_C', red) - ('g4_B', green)
+  ('g3_C', white) - ('g4_B', green)
+
+Angle: 107.441°, Combinations: 4
+  ('g1_A', green) - ('g4_B', green)
+  ('g1_B', blue) - ('g4_B', blue)
+  ('g2_B', red) - ('g5_A', red)
+  ('g2_B', white) - ('g5_B', white)
+
+Angle: 107.501°, Combinations: 8
+  ('g2_A', green) - ('g3_C', red)
+  ('g2_A', blue) - ('g3_C', white)
+  ('g2_C', green) - ('g3_A', red)
+  ('g2_C', blue) - ('g3_A', white)
+  ('g3_A', green) - ('g4_C', red)
+  ('g3_A', blue) - ('g4_C', white)
+  ('g3_C', green) - ('g4_A', red)
+  ('g3_C', blue) - ('g4_A', white)
+
+Angle: 107.622°, Combinations: 4
+  ('g1_A', red) - ('g5_B', red)
+  ('g1_A', blue) - ('g5_B', blue)
+  ('g1_B', green) - ('g5_A', green)
+  ('g1_B', white) - ('g5_A', white)
+
+Angle: 109.919°, Combinations: 4
+  ('g1_A', white) - ('g4_B', blue)
+  ('g1_B', red) - ('g4_B', green)
+  ('g2_B', red) - ('g5_B', green)
+  ('g2_B', white) - ('g5_A', blue)
+
+Angle: 110.211°, Combinations: 4
+  ('g1_A', green) - ('g5_B', green)
+  ('g1_A', white) - ('g5_B', white)
+  ('g1_B', red) - ('g5_A', red)
+  ('g1_B', blue) - ('g5_A', blue)
+
+Angle: 110.338°, Combinations: 8
+  ('g1_A', red) - ('g2_C', green)
+  ('g1_A', white) - ('g2_C', blue)
+  ('g1_B', red) - ('g2_A', green)
+  ('g1_B', white) - ('g2_A', blue)
+  ('g4_A', red) - ('g5_B', green)
+  ('g4_A', white) - ('g5_B', blue)
+  ('g4_C', red) - ('g5_A', green)
+  ('g4_C', white) - ('g5_A', blue)
+
+Angle: 111.212°, Combinations: 2
+  ('g1_A', red) - ('g5_B', blue)
+  ('g1_B', white) - ('g5_A', green)
+
+Angle: 111.502°, Combinations: 4
+  ('g1_A', white) - ('g4_B', red)
+  ('g1_B', red) - ('g4_B', white)
+  ('g2_B', green) - ('g5_A', blue)
+  ('g2_B', blue) - ('g5_B', green)
+
+Angle: 111.592°, Combinations: 8
+  ('g2_A', white) - ('g3_C', red)
+  ('g2_A', blue) - ('g3_C', green)
+  ('g2_C', red) - ('g3_A', white)
+  ('g2_C', green) - ('g3_A', blue)
+  ('g3_A', white) - ('g4_C', red)
+  ('g3_A', blue) - ('g4_C', green)
+  ('g3_C', red) - ('g4_A', white)
+  ('g3_C', green) - ('g4_A', blue)
+
+Angle: 111.645°, Combinations: 4
+  ('g1_A', green) - ('g3_B', green)
+  ('g1_B', blue) - ('g3_B', blue)
+  ('g3_B', red) - ('g5_A', red)
+  ('g3_B', white) - ('g5_B', white)
+
+Angle: 111.762°, Combinations: 2
+  ('g1_A', blue) - ('g5_B', red)
+  ('g1_B', green) - ('g5_A', white)
+
+Angle: 112.983°, Combinations: 8
+  ('g1_A', red) - ('g2_C', white)
+  ('g1_A', green) - ('g2_C', blue)
+  ('g1_B', white) - ('g2_A', red)
+  ('g1_B', blue) - ('g2_A', green)
+  ('g4_A', red) - ('g5_B', white)
+  ('g4_A', green) - ('g5_B', blue)
+  ('g4_C', white) - ('g5_A', red)
+  ('g4_C', blue) - ('g5_A', green)
+
+Angle: 113.855°, Combinations: 4
+  ('g1_A', blue) - ('g3_B', red)
+  ('g1_B', green) - ('g3_B', white)
+  ('g3_B', green) - ('g5_A', white)
+  ('g3_B', blue) - ('g5_B', red)
+
+Angle: 113.878°, Combinations: 4
+  ('g1_A', green) - ('g4_B', red)
+  ('g1_B', blue) - ('g4_B', white)
+  ('g2_B', green) - ('g5_A', red)
+  ('g2_B', blue) - ('g5_B', white)
+
+Angle: 114.025°, Combinations: 4
+  ('g1_A', blue) - ('g4_B', green)
+  ('g1_B', green) - ('g4_B', blue)
+  ('g2_B', red) - ('g5_A', white)
+  ('g2_B', white) - ('g5_B', red)
+
+Angle: 114.877°, Combinations: 4
+  ('g1_A', red) - ('g4_B', white)
+  ('g1_B', white) - ('g4_B', red)
+  ('g2_B', green) - ('g5_B', blue)
+  ('g2_B', blue) - ('g5_A', green)
+
+Angle: 115.136°, Combinations: 4
+  ('g1_A', red) - ('g3_B', red)
+  ('g1_B', white) - ('g3_B', white)
+  ('g3_B', green) - ('g5_A', green)
+  ('g3_B', blue) - ('g5_B', blue)
+
+Angle: 116.817°, Combinations: 4
+  ('g1_A', green) - ('g3_B', white)
+  ('g1_B', blue) - ('g3_B', red)
+  ('g3_B', green) - ('g5_B', white)
+  ('g3_B', blue) - ('g5_A', red)
+
+Angle: 116.98°, Combinations: 8
+  ('g2_A', green) - ('g3_C', green)
+  ('g2_A', white) - ('g3_C', white)
+  ('g2_C', red) - ('g3_A', red)
+  ('g2_C', blue) - ('g3_A', blue)
+  ('g3_A', green) - ('g4_C', green)
+  ('g3_A', white) - ('g4_C', white)
+  ('g3_C', red) - ('g4_A', red)
+  ('g3_C', blue) - ('g4_A', blue)
+
+Angle: 117.59°, Combinations: 4
+  ('g2_A', green) - ('g3_C', white)
+  ('g2_C', blue) - ('g3_A', red)
+  ('g3_A', green) - ('g4_C', white)
+  ('g3_C', blue) - ('g4_A', red)
+
+Angle: 118.82°, Combinations: 8
+  ('g2_A', red) - ('g4_B', green)
+  ('g2_A', green) - ('g4_B', red)
+  ('g2_B', red) - ('g4_A', green)
+  ('g2_B', green) - ('g4_A', red)
+  ('g2_B', white) - ('g4_C', blue)
+  ('g2_B', blue) - ('g4_C', white)
+  ('g2_C', white) - ('g4_B', blue)
+  ('g2_C', blue) - ('g4_B', white)
+
+Angle: 119.273°, Combinations: 4
+  ('g1_A', red) - ('g3_B', green)
+  ('g1_B', white) - ('g3_B', blue)
+  ('g3_B', red) - ('g5_A', green)
+  ('g3_B', white) - ('g5_B', blue)
+
+Angle: 119.833°, Combinations: 4
+  ('g1_A', red) - ('g5_B', white)
+  ('g1_A', green) - ('g5_B', blue)
+  ('g1_B', white) - ('g5_A', red)
+  ('g1_B', blue) - ('g5_A', green)
+
+Angle: 119.844°, Combinations: 4
+  ('g1_A', green) - ('g4_B', blue)
+  ('g1_B', blue) - ('g4_B', green)
+  ('g2_B', red) - ('g5_B', white)
+  ('g2_B', white) - ('g5_A', red)
+
+Angle: 119.91°, Combinations: 8
+  ('g2_A', red) - ('g3_C', red)
+  ('g2_A', blue) - ('g3_C', blue)
+  ('g2_C', green) - ('g3_A', green)
+  ('g2_C', white) - ('g3_A', white)
+  ('g3_A', red) - ('g4_C', red)
+  ('g3_A', blue) - ('g4_C', blue)
+  ('g3_C', green) - ('g4_A', green)
+  ('g3_C', white) - ('g4_A', white)
+
+Angle: 120.052°, Combinations: 4
+  ('g1_A', green) - ('g5_B', red)
+  ('g1_A', blue) - ('g5_B', white)
+  ('g1_B', green) - ('g5_A', red)
+  ('g1_B', blue) - ('g5_A', white)
+
+Angle: 120.92°, Combinations: 8
+  ('g2_A', red) - ('g4_B', red)
+  ('g2_A', green) - ('g4_B', green)
+  ('g2_B', red) - ('g4_A', red)
+  ('g2_B', green) - ('g4_A', green)
+  ('g2_B', white) - ('g4_C', white)
+  ('g2_B', blue) - ('g4_C', blue)
+  ('g2_C', white) - ('g4_B', white)
+  ('g2_C', blue) - ('g4_B', blue)
+
+Angle: 121.298°, Combinations: 4
+  ('g1_A', white) - ('g4_B', white)
+  ('g1_B', red) - ('g4_B', red)
+  ('g2_B', green) - ('g5_B', green)
+  ('g2_B', blue) - ('g5_A', blue)
+
+Angle: 122.201°, Combinations: 4
+  ('g1_A', red) - ('g2_C', blue)
+  ('g1_B', white) - ('g2_A', green)
+  ('g4_A', red) - ('g5_B', blue)
+  ('g4_C', white) - ('g5_A', green)
+
+Angle: 123.125°, Combinations: 4
+  ('g1_A', blue) - ('g3_B', green)
+  ('g1_B', green) - ('g3_B', blue)
+  ('g3_B', red) - ('g5_A', white)
+  ('g3_B', white) - ('g5_B', red)
+
+Angle: 123.269°, Combinations: 4
+  ('g1_A', blue) - ('g4_B', red)
+  ('g1_B', green) - ('g4_B', white)
+  ('g2_B', green) - ('g5_A', white)
+  ('g2_B', blue) - ('g5_B', red)
+
+Angle: 123.875°, Combinations: 4
+  ('g1_A', blue) - ('g3_B', white)
+  ('g1_B', green) - ('g3_B', red)
+  ('g3_B', green) - ('g5_B', red)
+  ('g3_B', blue) - ('g5_A', white)
+
+Angle: 124.063°, Combinations: 4
+  ('g1_A', blue) - ('g4_B', blue)
+  ('g1_B', green) - ('g4_B', green)
+  ('g2_B', red) - ('g5_B', red)
+  ('g2_B', white) - ('g5_A', white)
+
+Angle: 124.103°, Combinations: 4
+  ('g1_A', white) - ('g4_C', green)
+  ('g1_B', red) - ('g4_A', blue)
+  ('g2_A', white) - ('g5_B', green)
+  ('g2_C', red) - ('g5_A', blue)
+
+Angle: 124.466°, Combinations: 4
+  ('g2_A', white) - ('g3_C', green)
+  ('g2_C', red) - ('g3_A', blue)
+  ('g3_A', white) - ('g4_C', green)
+  ('g3_C', red) - ('g4_A', blue)
+
+Angle: 124.525°, Combinations: 4
+  ('g1_A', green) - ('g3_B', blue)
+  ('g1_B', blue) - ('g3_B', green)
+  ('g3_B', red) - ('g5_B', white)
+  ('g3_B', white) - ('g5_A', red)
+
+Angle: 125.168°, Combinations: 4
+  ('g1_A', white) - ('g3_B', red)
+  ('g1_B', red) - ('g3_B', white)
+  ('g3_B', green) - ('g5_A', blue)
+  ('g3_B', blue) - ('g5_B', green)
+
+Angle: 127.064°, Combinations: 4
+  ('g1_A', green) - ('g4_B', white)
+  ('g1_B', blue) - ('g4_B', red)
+  ('g2_B', green) - ('g5_B', white)
+  ('g2_B', blue) - ('g5_A', red)
+
+Angle: 127.212°, Combinations: 8
+  ('g1_A', red) - ('g4_C', green)
+  ('g1_A', white) - ('g4_C', blue)
+  ('g1_B', red) - ('g4_A', green)
+  ('g1_B', white) - ('g4_A', blue)
+  ('g2_A', red) - ('g5_B', green)
+  ('g2_A', white) - ('g5_B', blue)
+  ('g2_C', red) - ('g5_A', green)
+  ('g2_C', white) - ('g5_A', blue)
+
+Angle: 128.032°, Combinations: 8
+  ('g2_A', red) - ('g3_C', white)
+  ('g2_A', green) - ('g3_C', blue)
+  ('g2_C', white) - ('g3_A', red)
+  ('g2_C', blue) - ('g3_A', green)
+  ('g3_A', red) - ('g4_C', white)
+  ('g3_A', green) - ('g4_C', blue)
+  ('g3_C', white) - ('g4_A', red)
+  ('g3_C', blue) - ('g4_A', green)
+
+Angle: 128.513°, Combinations: 4
+  ('g1_A', red) - ('g3_B', white)
+  ('g1_B', white) - ('g3_B', red)
+  ('g3_B', green) - ('g5_B', blue)
+  ('g3_B', blue) - ('g5_A', green)
+
+Angle: 130.662°, Combinations: 8
+  ('g2_A', red) - ('g3_C', green)
+  ('g2_A', white) - ('g3_C', blue)
+  ('g2_C', red) - ('g3_A', green)
+  ('g2_C', white) - ('g3_A', blue)
+  ('g3_A', red) - ('g4_C', green)
+  ('g3_A', white) - ('g4_C', blue)
+  ('g3_C', red) - ('g4_A', green)
+  ('g3_C', white) - ('g4_A', blue)
+
+Angle: 130.751°, Combinations: 2
+  ('g1_A', green) - ('g5_B', white)
+  ('g1_B', blue) - ('g5_A', red)
+
+Angle: 131.804°, Combinations: 4
+  ('g1_A', white) - ('g3_B', green)
+  ('g1_B', red) - ('g3_B', blue)
+  ('g3_B', red) - ('g5_A', blue)
+  ('g3_B', white) - ('g5_B', green)
+
+Angle: 132.842°, Combinations: 16
+  ('g2_A', red) - ('g4_B', blue)
+  ('g2_A', green) - ('g4_B', white)
+  ('g2_A', white) - ('g4_B', green)
+  ('g2_A', blue) - ('g4_B', red)
+  ('g2_B', red) - ('g4_A', blue)
+  ('g2_B', red) - ('g4_C', blue)
+  ('g2_B', green) - ('g4_A', white)
+  ('g2_B', green) - ('g4_C', white)
+  ('g2_B', white) - ('g4_A', green)
+  ('g2_B', white) - ('g4_C', green)
+  ('g2_B', blue) - ('g4_A', red)
+  ('g2_B', blue) - ('g4_C', red)
+  ('g2_C', red) - ('g4_B', blue)
+  ('g2_C', green) - ('g4_B', white)
+  ('g2_C', white) - ('g4_B', green)
+  ('g2_C', blue) - ('g4_B', red)
+
+Angle: 133.384°, Combinations: 4
+  ('g1_A', red) - ('g3_B', blue)
+  ('g1_B', white) - ('g3_B', green)
+  ('g3_B', red) - ('g5_B', blue)
+  ('g3_B', white) - ('g5_A', green)
+
+Angle: 134.373°, Combinations: 4
+  ('g1_A', red) - ('g4_C', blue)
+  ('g1_B', white) - ('g4_A', green)
+  ('g2_A', red) - ('g5_B', blue)
+  ('g2_C', white) - ('g5_A', green)
+
+Angle: 134.381°, Combinations: 4
+  ('g1_A', blue) - ('g3_B', blue)
+  ('g1_B', green) - ('g3_B', green)
+  ('g3_B', red) - ('g5_B', red)
+  ('g3_B', white) - ('g5_A', white)
+
+Angle: 134.55°, Combinations: 4
+  ('g1_A', blue) - ('g4_B', white)
+  ('g1_B', green) - ('g4_B', red)
+  ('g2_B', green) - ('g5_B', red)
+  ('g2_B', blue) - ('g5_A', white)
+
+Angle: 135.378°, Combinations: 16
+  ('g2_A', red) - ('g4_B', white)
+  ('g2_A', green) - ('g4_B', blue)
+  ('g2_A', white) - ('g4_B', red)
+  ('g2_A', blue) - ('g4_B', green)
+  ('g2_B', red) - ('g4_A', white)
+  ('g2_B', red) - ('g4_C', white)
+  ('g2_B', green) - ('g4_A', blue)
+  ('g2_B', green) - ('g4_C', blue)
+  ('g2_B', white) - ('g4_A', red)
+  ('g2_B', white) - ('g4_C', red)
+  ('g2_B', blue) - ('g4_A', green)
+  ('g2_B', blue) - ('g4_C', green)
+  ('g2_C', red) - ('g4_B', white)
+  ('g2_C', green) - ('g4_B', blue)
+  ('g2_C', white) - ('g4_B', red)
+  ('g2_C', blue) - ('g4_B', green)
+
+Angle: 136.797°, Combinations: 4
+  ('g1_A', white) - ('g3_B', white)
+  ('g1_B', red) - ('g3_B', red)
+  ('g3_B', green) - ('g5_B', green)
+  ('g3_B', blue) - ('g5_A', blue)
+
+Angle: 137.498°, Combinations: 4
+  ('g1_A', blue) - ('g3_C', red)
+  ('g1_B', green) - ('g3_A', white)
+  ('g3_A', blue) - ('g5_B', red)
+  ('g3_C', green) - ('g5_A', white)
+
+Angle: 137.687°, Combinations: 8
+  ('g1_A', white) - ('g4_C', red)
+  ('g1_A', blue) - ('g4_C', green)
+  ('g1_B', red) - ('g4_A', white)
+  ('g1_B', green) - ('g4_A', blue)
+  ('g2_A', white) - ('g5_B', red)
+  ('g2_A', blue) - ('g5_B', green)
+  ('g2_C', red) - ('g5_A', white)
+  ('g2_C', green) - ('g5_A', blue)
+
+Angle: 138.194°, Combinations: 8
+  ('g1_A', green) - ('g3_C', red)
+  ('g1_A', blue) - ('g3_C', white)
+  ('g1_B', green) - ('g3_A', red)
+  ('g1_B', blue) - ('g3_A', white)
+  ('g3_A', green) - ('g5_B', red)
+  ('g3_A', blue) - ('g5_B', white)
+  ('g3_C', green) - ('g5_A', red)
+  ('g3_C', blue) - ('g5_A', white)
+
+Angle: 138.348°, Combinations: 8
+  ('g1_A', red) - ('g4_C', red)
+  ('g1_A', blue) - ('g4_C', blue)
+  ('g1_B', green) - ('g4_A', green)
+  ('g1_B', white) - ('g4_A', white)
+  ('g2_A', red) - ('g5_B', red)
+  ('g2_A', blue) - ('g5_B', blue)
+  ('g2_C', green) - ('g5_A', green)
+  ('g2_C', white) - ('g5_A', white)
+
+Angle: 140.27°, Combinations: 4
+  ('g2_A', red) - ('g3_C', blue)
+  ('g2_C', white) - ('g3_A', green)
+  ('g3_A', red) - ('g4_C', blue)
+  ('g3_C', white) - ('g4_A', green)
+
+Angle: 141.588°, Combinations: 8
+  ('g1_A', green) - ('g4_C', green)
+  ('g1_A', white) - ('g4_C', white)
+  ('g1_B', red) - ('g4_A', red)
+  ('g1_B', blue) - ('g4_A', blue)
+  ('g2_A', green) - ('g5_B', green)
+  ('g2_A', white) - ('g5_B', white)
+  ('g2_C', red) - ('g5_A', red)
+  ('g2_C', blue) - ('g5_A', blue)
+
+Angle: 144.199°, Combinations: 4
+  ('g1_A', green) - ('g3_C', white)
+  ('g1_B', blue) - ('g3_A', red)
+  ('g3_A', green) - ('g5_B', white)
+  ('g3_C', blue) - ('g5_A', red)
+
+Angle: 145.039°, Combinations: 4
+  ('g1_A', white) - ('g3_B', blue)
+  ('g1_B', red) - ('g3_B', green)
+  ('g3_B', red) - ('g5_B', green)
+  ('g3_B', white) - ('g5_A', blue)
+
+Angle: 146.401°, Combinations: 8
+  ('g2_A', white) - ('g4_B', blue)
+  ('g2_A', blue) - ('g4_B', white)
+  ('g2_B', red) - ('g4_C', green)
+  ('g2_B', green) - ('g4_C', red)
+  ('g2_B', white) - ('g4_A', blue)
+  ('g2_B', blue) - ('g4_A', white)
+  ('g2_C', red) - ('g4_B', green)
+  ('g2_C', green) - ('g4_B', red)
+
+Angle: 147.326°, Combinations: 8
+  ('g1_A', red) - ('g4_C', white)
+  ('g1_A', green) - ('g4_C', blue)
+  ('g1_B', white) - ('g4_A', red)
+  ('g1_B', blue) - ('g4_A', green)
+  ('g2_A', red) - ('g5_B', white)
+  ('g2_A', green) - ('g5_B', blue)
+  ('g2_C', white) - ('g5_A', red)
+  ('g2_C', blue) - ('g5_A', green)
+
+Angle: 149.432°, Combinations: 8
+  ('g1_A', green) - ('g3_C', green)
+  ('g1_A', white) - ('g3_C', white)
+  ('g1_B', red) - ('g3_A', red)
+  ('g1_B', blue) - ('g3_A', blue)
+  ('g3_A', green) - ('g5_B', green)
+  ('g3_A', white) - ('g5_B', white)
+  ('g3_C', red) - ('g5_A', red)
+  ('g3_C', blue) - ('g5_A', blue)
+
+Angle: 149.851°, Combinations: 8
+  ('g2_A', white) - ('g4_B', white)
+  ('g2_A', blue) - ('g4_B', blue)
+  ('g2_B', red) - ('g4_C', red)
+  ('g2_B', green) - ('g4_C', green)
+  ('g2_B', white) - ('g4_A', white)
+  ('g2_B', blue) - ('g4_A', blue)
+  ('g2_C', red) - ('g4_B', red)
+  ('g2_C', green) - ('g4_B', green)
+
+Angle: 151.558°, Combinations: 8
+  ('g1_A', white) - ('g3_C', red)
+  ('g1_A', blue) - ('g3_C', green)
+  ('g1_B', red) - ('g3_A', white)
+  ('g1_B', green) - ('g3_A', blue)
+  ('g3_A', white) - ('g5_B', red)
+  ('g3_A', blue) - ('g5_B', green)
+  ('g3_C', red) - ('g5_A', white)
+  ('g3_C', green) - ('g5_A', blue)
+
+Angle: 151.753°, Combinations: 4
+  ('g1_A', blue) - ('g4_C', red)
+  ('g1_B', green) - ('g4_A', white)
+  ('g2_A', blue) - ('g5_B', red)
+  ('g2_C', green) - ('g5_A', white)
+
+Angle: 152.555°, Combinations: 8
+  ('g1_A', red) - ('g3_C', red)
+  ('g1_A', blue) - ('g3_C', blue)
+  ('g1_B', green) - ('g3_A', green)
+  ('g1_B', white) - ('g3_A', white)
+  ('g3_A', red) - ('g5_B', red)
+  ('g3_A', blue) - ('g5_B', blue)
+  ('g3_C', green) - ('g5_A', green)
+  ('g3_C', white) - ('g5_A', white)
+
+Angle: 152.701°, Combinations: 8
+  ('g1_A', green) - ('g4_C', red)
+  ('g1_A', blue) - ('g4_C', white)
+  ('g1_B', green) - ('g4_A', red)
+  ('g1_B', blue) - ('g4_A', white)
+  ('g2_A', green) - ('g5_B', red)
+  ('g2_A', blue) - ('g5_B', white)
+  ('g2_C', green) - ('g5_A', red)
+  ('g2_C', blue) - ('g5_A', white)
+
+Angle: 157.923°, Combinations: 8
+  ('g1_A', red) - ('g3_C', white)
+  ('g1_A', green) - ('g3_C', blue)
+  ('g1_B', white) - ('g3_A', red)
+  ('g1_B', blue) - ('g3_A', green)
+  ('g3_A', red) - ('g5_B', white)
+  ('g3_A', green) - ('g5_B', blue)
+  ('g3_C', white) - ('g5_A', red)
+  ('g3_C', blue) - ('g5_A', green)
+
+Angle: 159.459°, Combinations: 12
+  ('g2_A', red) - ('g4_C', green)
+  ('g2_A', green) - ('g4_C', red)
+  ('g2_A', white) - ('g4_C', blue)
+  ('g2_A', blue) - ('g4_C', white)
+  ('g2_B', red) - ('g4_B', green)
+  ('g2_B', green) - ('g4_B', red)
+  ('g2_B', white) - ('g4_B', blue)
+  ('g2_B', blue) - ('g4_B', white)
+  ('g2_C', red) - ('g4_A', green)
+  ('g2_C', green) - ('g4_A', red)
+  ('g2_C', white) - ('g4_A', blue)
+  ('g2_C', blue) - ('g4_A', white)
+
+Angle: 161.229°, Combinations: 4
+  ('g1_A', green) - ('g4_C', white)
+  ('g1_B', blue) - ('g4_A', red)
+  ('g2_A', green) - ('g5_B', white)
+  ('g2_C', blue) - ('g5_A', red)
+
+Angle: 162.108°, Combinations: 8
+  ('g1_A', red) - ('g3_C', green)
+  ('g1_A', white) - ('g3_C', blue)
+  ('g1_B', red) - ('g3_A', green)
+  ('g1_B', white) - ('g3_A', blue)
+  ('g3_A', red) - ('g5_B', green)
+  ('g3_A', white) - ('g5_B', blue)
+  ('g3_C', red) - ('g5_A', green)
+  ('g3_C', white) - ('g5_A', blue)
+
+Angle: 165.515°, Combinations: 24
+  ('g2_A', red) - ('g4_C', red)
+  ('g2_A', red) - ('g4_C', blue)
+  ('g2_A', green) - ('g4_C', green)
+  ('g2_A', green) - ('g4_C', white)
+  ('g2_A', white) - ('g4_C', green)
+  ('g2_A', white) - ('g4_C', white)
+  ('g2_A', blue) - ('g4_C', red)
+  ('g2_A', blue) - ('g4_C', blue)
+  ('g2_B', red) - ('g4_B', red)
+  ('g2_B', red) - ('g4_B', blue)
+  ('g2_B', green) - ('g4_B', green)
+  ('g2_B', green) - ('g4_B', white)
+  ('g2_B', white) - ('g4_B', green)
+  ('g2_B', white) - ('g4_B', white)
+  ('g2_B', blue) - ('g4_B', red)
+  ('g2_B', blue) - ('g4_B', blue)
+  ('g2_C', red) - ('g4_A', red)
+  ('g2_C', red) - ('g4_A', blue)
+  ('g2_C', green) - ('g4_A', green)
+  ('g2_C', green) - ('g4_A', white)
+  ('g2_C', white) - ('g4_A', green)
+  ('g2_C', white) - ('g4_A', white)
+  ('g2_C', blue) - ('g4_A', red)
+  ('g2_C', blue) - ('g4_A', blue)
+
+Angle: 165.91°, Combinations: 4
+  ('g1_A', white) - ('g3_C', green)
+  ('g1_B', red) - ('g3_A', blue)
+  ('g3_A', white) - ('g5_B', green)
+  ('g3_C', red) - ('g5_A', blue)
+
+Angle: 172.253°, Combinations: 4
+  ('g1_A', red) - ('g3_C', blue)
+  ('g1_B', white) - ('g3_A', green)
+  ('g3_A', red) - ('g5_B', blue)
+  ('g3_C', white) - ('g5_A', green)
+
+Angle: 180.0°, Combinations: 12
+  ('g2_A', red) - ('g4_C', white)
+  ('g2_A', green) - ('g4_C', blue)
+  ('g2_A', white) - ('g4_C', red)
+  ('g2_A', blue) - ('g4_C', green)
+  ('g2_B', red) - ('g4_B', white)
+  ('g2_B', green) - ('g4_B', blue)
+  ('g2_B', white) - ('g4_B', red)
+  ('g2_B', blue) - ('g4_B', green)
+  ('g2_C', red) - ('g4_A', white)
+  ('g2_C', green) - ('g4_A', blue)
+  ('g2_C', white) - ('g4_A', red)
+  ('g2_C', blue) - ('g4_A', green)
+
