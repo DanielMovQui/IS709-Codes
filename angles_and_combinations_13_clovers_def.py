@@ -130,7 +130,7 @@ def angle_between(v1, v2):
     v2_u = v2 / np.linalg.norm(v2)
     cos_angle = np.clip(np.dot(v1_u, v2_u), -1.0, 1.0)
     angle = np.degrees(np.arccos(cos_angle))
-    return angle
+    return angle, cos_angle
 
 pairs = []
 for (key1, pos1), (key2, pos2) in combinations(crystals_positions.items(), 2):
