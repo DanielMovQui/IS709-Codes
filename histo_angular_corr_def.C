@@ -9,7 +9,7 @@
 //
 // To compile:
 //
-// g++ histo_angular_corr.C -Wall `root-config --cflags` `root-config --glibs` -o histo_angular_corr
+// g++ histo_angular_cor_def.C -Wall `root-config --cflags` `root-config --glibs` -o histo_angular_corr_def
 //
 // ./ids_histo Run362.root
 //
@@ -501,7 +501,7 @@ const int num_Clov_crys = clover.size();
     Clov_Beta_Time = new TH1F("Clov_Beta_time","Clover-Beta time difference; Time 1 ns/Chan; Counts/1 ns",2000,-1000.,1000.);
     list_Time->Add(Clov_Beta_Time);
     Beta_Id_vs_TimeAlignment = new TH2F("Beta_Id_vs_TimeAlignment","Beta ID Vs Time Alignment; ID number; Time diference [4 ns/Chan]",num_beta,0,num_beta,200,-1000,1000); list_Time->Add(Beta_Id_vs_TimeAlignment);
-
+  }
 // Others
   auto* list_others = new TList; //list of the extra histograms
   TH1F* TRef = new TH1F("TRef",Form("Time difference; Time [%d %s/Chan]; Counts/Chan",(int)RefUnit_val,RefUnit_str.c_str()),MaxRefUnit,0,MaxRefUnit); list_others->Add(TRef);
@@ -612,7 +612,7 @@ const int num_Clov_crys = clover.size();
       for(Int_t j = 0; j < num_Clov_crys; j++){//Loop over first clover event
         if(E_Clover[j] > EClov_Min){   // && TIME_REF < time_ref_c
           Clov_singles->Fill(E_Clover[j]);
-	  Clov_Id_vs_Ener->Fill(j,E_Clover[j]);
+	        Clov_Id_vs_Ener->Fill(j,E_Clover[j]);
           if (TIME_REF < MaxRefUnit){                ///////////////////////////////////////////////////////////////////////////////////
             Clov_vs_TRef->Fill(TIME_REF,E_Clover[j]);
             TRef->Fill(TIME_REF);
@@ -627,17 +627,17 @@ const int num_Clov_crys = clover.size();
                 if (TIME_REF < MaxRefUnit)
                   Clov_vs_TRef_betagated->Fill(TIME_REF,E_Clover[j]);
               }
-            }
+            }   
           
           if (gotBeta && M_Beta > 0)
             for (Int_t k = 0; k < num_beta; k++)
               if (j == RefIDCrys && E_Beta[k] > 0) Beta_Id_vs_TimeAlignment->Fill(k, T_Beta[k] - T_Clover[j]);
-	  if(M_Clover > 1){
-          for(Int_t k = 0; k < num_Clov_crys; k++){//Loop over second and beyond clover envents
-              if(E_Clover[k] > EClov_Min && j != k ){
-                time_diff = T_Clover[k]-T_Clover[j];
-                Clov_time->Fill(time_diff);
-		if (j == RefIDCrys) Clov_Id_vs_TimeAlignment->Fill(k, time_diff);
+	            if(M_Clover > 1){
+              for(Int_t k = 0; k < num_Clov_crys; k++){//Loop over second and beyond clover envents
+                if(E_Clover[k] > EClov_Min && j != k ){
+                  time_diff = T_Clover[k]-T_Clover[j];
+                  Clov_time->Fill(time_diff);
+		            if (j == RefIDCrys) Clov_Id_vs_TimeAlignment->Fill(k, time_diff);
                 if (Do60CoCase && j == RefIDCrys && E_Clover[j] > 1328 && 1336 > E_Clover[j]){
                   Clov_Id_vs_TimeAlignment60Co->Fill(k, time_diff);
                   Clov_TimeAlignment_Vs_Energy->Fill(time_diff,  E_Clover[k]);
@@ -658,7 +658,7 @@ const int num_Clov_crys = clover.size();
                       time_diff2 = tmp_BetaTi.at(l) - T_Clover[j];
                       if( tmp_BetaEn.at(l) > BetaPMT_energy_gate[0] && tmp_BetaEn.at(l) < BetaPMT_energy_gate[1] && (time_diff2 >= Clov_Beta_t_coinc[0] && time_diff2 <= Clov_Beta_t_coinc[1]))
                         Clov_gg_betagated->Fill(E_Clover[j], E_Clover[k]);
-		    }
+		                }
                   
                     // Angular correlation Beta gated
                     std::string key_beta_gated = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
@@ -671,24 +671,24 @@ const int num_Clov_crys = clover.size();
                     } catch (const std::out_of_range& e) {}
                   }
                 }
-              else if(Clov_rand_coinc[0] < abs(time_diff) && abs(time_diff) < Clov_rand_coinc[1]){//Time-random coincidences
-                Clov_gg_trand->Fill(E_Clover[j], E_Clover[k]);
+                else if(Clov_rand_coinc[0] < abs(time_diff) && abs(time_diff) < Clov_rand_coinc[1]){//Time-random coincidences
+                  Clov_gg_trand->Fill(E_Clover[j], E_Clover[k]);
 
                 // Fill the background angular correlation histograms between a defined window
-                std::string key_bckg = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
-                try {
-                  double angulo = angulos.at(key_bckg);
-                  double angulo_binned = get_bin_center(angulo);
-                  int bin_index = static_cast<int>((angulo_binned / angular_resolution)-0.5);
-                  TH2D* hist_event_correlation_bckg = (TH2D*)list_crys_bckg->At(bin_index);
-                  hist_event_correlation_bckg->Fill(E_Clover[j], E_Clover[k]);
-                  } catch (const std::out_of_range& e) {}
+                  std::string key_bckg = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
+                  try {
+                    double angulo = angulos.at(key_bckg);
+                    double angulo_binned = get_bin_center(angulo);
+                    int bin_index = static_cast<int>((angulo_binned / angular_resolution)-0.5);
+                    TH2D* hist_event_correlation_bckg = (TH2D*)list_crys_bckg->At(bin_index);
+                    hist_event_correlation_bckg->Fill(E_Clover[j], E_Clover[k]);
+                    } catch (const std::out_of_range& e) {}
                 if(Beta_count>0){
                   for(Int_t l = 0; l < tmp_BetaEn.size(); l++){
                       time_diff2 = tmp_BetaTi.at(l) - T_Clover[j];
                       if( tmp_BetaEn.at(l) > BetaPMT_energy_gate[0] && tmp_BetaEn.at(l) < BetaPMT_energy_gate[1] && (time_diff2 >= Clov_Beta_t_coinc[0] && time_diff2 <= Clov_Beta_t_coinc[1]))
                         Clov_gg_trand_betagated->Fill(E_Clover[j], E_Clover[k]);
-                    }
+                  }
                    // Angular correlation background beta gated
                   std::string key_bckg_beta_gated = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
                   try {
@@ -699,67 +699,68 @@ const int num_Clov_crys = clover.size();
                     hist_event_correlation_bckg_beta_gated->Fill(E_Clover[j], E_Clover[k]);
                   } catch (const std::out_of_range& e) {}
                 }            
+                }
               }
-            }
-
-	    if (M_SPEDE > 0){
-              for(Int_t k = 0; k < num_spede; k++){//Loop over spede
-                if(E_SPEDE[k] > SPEDE_energy_gate){
-                  time_diff = T_SPEDE[k] - T_Clover[j];
-                  Clov_SPEDE_Time->Fill(time_diff);
-                  if (j == RefIDCrys) SPEDE_Id_vs_TimeAlignment->Fill(k, time_diff);
-                  Clov_SPEDE_tdiff_vs_Ener->Fill(time_diff, E_SPEDE[k]);
-                  if(time_diff >= Clov_SPEDE_t_coinc[0] && time_diff <= Clov_SPEDE_t_coinc[1]){//True time coincidences
-                    Clov_SPEDE_Energy_ge->Fill(E_Clover[j], E_SPEDE[k]);
-                  }
-                }
-              } 
-
-            if (abs(k - j) == event_separation) {
-              // ================================
-              // Event mixing (no beta gating)
-              // ================================
-              std::string key_mixed = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
-              try {
-                double angulo = angulos.at(key_mixed);
-                double angulo_binned = get_bin_center(angulo);
-                int bin_index = static_cast<int>((angulo_binned / angular_resolution) - 0.5);
-                TH2D* hist_event_correlation_mixed = (TH2D*)list_crys_mixed->At(bin_index);
-                hist_event_correlation_mixed->Fill(E_Clover[j], E_Clover[k]);
-                } catch (const std::out_of_range& e) {}
-
-              // ===============================
-              // Event mixing with beta gating PMT
-              // ===============================
-/*
-              if (gotBeta) {
-                // event j: first beta gated 
-                bool beta_j = (Beta_count[0] > 0);
-
-                // Evento k: second beta gated boolean logic
-                bool beta_k = false;
-                if (E_Beta[beta_pmt] > betapmt_energy_gate[0] &&
-                  E_Beta[beta_pmt] < betapmt_energy_gate[1]) {
-                  beta_k = true;
-                }
-
-                // If both beta gated, fill mixed beta gated histograms
-                if (beta_j && beta_k) {
-                  std::string key_mixed_beta = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
-                  try {
-                    double angulo = angulos.at(key_mixed_beta);
-                    double angulo_binned = get_bin_center(angulo);
-                    int bin_index = static_cast<int>((angulo_binned / angular_resolution) - 0.5);
-                    TH2D* hist_event_correlation_mixed_beta_gated =
-                    (TH2D*)list_crys_mixed_beta_gated->At(bin_index);
-                    hist_event_correlation_mixed_beta_gated->Fill(E_Clover[j], E_Clover[k]);
+              if (abs(k - j) == event_separation) {
+                // ================================
+                // Event mixing (no beta gating)
+                // ================================
+                std::string key_mixed = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
+                try {
+                  double angulo = angulos.at(key_mixed);
+                  double angulo_binned = get_bin_center(angulo);
+                  int bin_index = static_cast<int>((angulo_binned / angular_resolution) - 0.5);
+                  TH2D* hist_event_correlation_mixed = (TH2D*)list_crys_mixed->At(bin_index);
+                  hist_event_correlation_mixed->Fill(E_Clover[j], E_Clover[k]);
                   } catch (const std::out_of_range& e) {}
-                }       
-              }*/
-            }
-          }
-        }
-	}
+
+                // ===============================
+                // Event mixing with beta gating PMT
+                // ===============================
+                /*
+                if (gotBeta) {
+                  // event j: first beta gated 
+                  bool beta_j = (Beta_count[0] > 0);
+
+                  // Evento k: second beta gated boolean logic
+                  bool beta_k = false;
+                  if (E_Beta[beta_pmt] > betapmt_energy_gate[0] &&
+                    E_Beta[beta_pmt] < betapmt_energy_gate[1]) {
+                    beta_k = true;
+                  }
+
+                  // If both beta gated, fill mixed beta gated histograms
+                  if (beta_j && beta_k) {
+                    std::string key_mixed_beta = "('" + clover[j] + "', '" + color[j] + "') - ('" + clover[k] + "', '" + color[k] + "')";
+                    try {
+                      double angulo = angulos.at(key_mixed_beta);
+                      double angulo_binned = get_bin_center(angulo);
+                      int bin_index = static_cast<int>((angulo_binned / angular_resolution) - 0.5);
+                      TH2D* hist_event_correlation_mixed_beta_gated =
+                      (TH2D*)list_crys_mixed_beta_gated->At(bin_index);
+                      hist_event_correlation_mixed_beta_gated->Fill(E_Clover[j], E_Clover[k]);
+                    } catch (const std::out_of_range& e) {}
+                  }       
+                }*/
+              }
+
+	            if (M_SPEDE > 0){
+                for(Int_t k = 0; k < num_spede; k++){//Loop over spede
+                  if(E_SPEDE[k] > SPEDE_energy_gate){
+                    time_diff = T_SPEDE[k] - T_Clover[j];
+                    Clov_SPEDE_Time->Fill(time_diff);
+                    if (j == RefIDCrys) SPEDE_Id_vs_TimeAlignment->Fill(k, time_diff);
+                    Clov_SPEDE_tdiff_vs_Ener->Fill(time_diff, E_SPEDE[k]);
+                    if(time_diff >= Clov_SPEDE_t_coinc[0] && time_diff <= Clov_SPEDE_t_coinc[1]){//True time coincidences
+                      Clov_SPEDE_Energy_ge->Fill(E_Clover[j], E_SPEDE[k]);
+                    }
+                  }
+                } 
+
+            
+              } 
+              }
+	      }
       }
     }//Clover boolean check
 
@@ -771,9 +772,9 @@ const int num_Clov_crys = clover.size();
             SPEDE_SPEDE_Time->Fill(time_diff);
             if(time_diff >= SPEDE_SPEDE_t_coinc[0] && time_diff <= SPEDE_SPEDE_t_coinc[1]){//True time coincidences
               SPEDE_EnergyVsEnergy->Fill(E_SPEDE[j], E_SPEDE[k]);
-	    }
+	          }
           }
-	}
+	      }
       }
     }
 
@@ -859,4 +860,4 @@ for (int i = 0; i < angular_binning; i++) {
 
   return 0;
 }
-}
+
