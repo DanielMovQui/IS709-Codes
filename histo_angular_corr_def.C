@@ -860,4 +860,3 @@ for (int i = 0; i < angular_binning; i++) {
 
   return 0;
 }
-
